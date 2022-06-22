@@ -1,0 +1,11 @@
+//存储图片数据，图片大小为 x*y 像素
+
+#ifndef __BMP_H
+#define __BMP_H
+
+extern unsigned char BMP1[]; 
+extern unsigned char BMP2[]; 
+
+#endif
+
+
